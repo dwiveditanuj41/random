@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.Toastify__toast {
+  font-family: 'IBM Plex Sans', sans-serif !important;
+  font-weight: 500;
+}
+
+.Toastify__toast--error {
+  background-color: #ff4436 !important;
+}
+
+.Toastify__toast--success {
+  background-color: #20bf6b !important;
+}
+
+textarea,
+input {
+  font-family: inherit !important;
+  color: inherit !important;
+}
+
+button {
+  font-family: inherit !important;
+}
