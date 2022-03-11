@@ -6,7 +6,7 @@
     "@indshine/platform-canvas": "^0.1.27",
     "@indshine/ui-kit": "^1.4.1",
     "@uppy/aws-s3": "^1.0.2",
-    "@uppy/companion": "^1.0.2",
+    "@uppy/companion": "^3.3.1",
     "@uppy/core": "^1.0.2",
     "@uppy/dashboard": "^1.0.2",
     "@uppy/dropbox": "^1.0.2",
